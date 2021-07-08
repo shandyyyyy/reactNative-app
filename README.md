@@ -10,8 +10,8 @@ npm install -g expo-cli
 ```
 ## 2. Create a new React Native project
 ```shell
-expo init AwesomeProject
+expo init AwesomeApp
 
-cd AwesomeProject
+cd AwesomeApp
 npm start # you can also use: expo start
 ```
